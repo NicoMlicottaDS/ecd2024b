@@ -1,0 +1,130 @@
+neighbourhood,room_type,precio_promedio,disponibilidad_promedio
+Agronomia,Entire home/apt,32856,221
+Agronomia,Private room,11609,228
+Almagro,Entire home/apt,74053,209
+Almagro,Private room,17939,203
+Almagro,Shared room,21868,229
+Balvanera,Entire home/apt,66158,210
+Balvanera,Private room,113639,193
+Balvanera,Shared room,14120,220
+Barracas,Entire home/apt,188408,243
+Barracas,Private room,22350,231
+Barracas,Shared room,1899324,363
+Belgrano,Entire home/apt,51604,208
+Belgrano,Private room,278702,194
+Belgrano,Shared room,11887,236
+Boca,Entire home/apt,228913,220
+Boca,Private room,28272,117
+Boca,Shared room,41117,56
+Boedo,Entire home/apt,46092,233
+Boedo,Private room,16590,204
+Caballito,Entire home/apt,37522,202
+Caballito,Private room,26953,224
+Caballito,Shared room,112235,244
+Chacarita,Entire home/apt,35927,202
+Chacarita,Private room,19187,206
+Chacarita,Shared room,46566,45
+Coghlan,Entire home/apt,47848,203
+Coghlan,Private room,62049,175
+Coghlan,Shared room,94550,87
+Colegiales,Entire home/apt,73190,215
+Colegiales,Private room,31933,206
+Colegiales,Shared room,16748,149
+Constitucion,Entire home/apt,36541,229
+Constitucion,Private room,19928,198
+Constitucion,Shared room,15206,208
+Flores,Entire home/apt,34217,204
+Flores,Private room,20164,251
+Flores,Shared room,47275,364
+Floresta,Entire home/apt,34098,190
+Floresta,Hotel room,77500,365
+Floresta,Private room,47290,239
+Liniers,Entire home/apt,35983,191
+Liniers,Private room,34989,134
+Liniers,Shared room,7067,365
+Mataderos,Entire home/apt,36232,216
+Mataderos,Private room,19350,144
+Monserrat,Entire home/apt,37340,219
+Monserrat,Hotel room,103053,208
+Monserrat,Private room,277773,212
+Monserrat,Shared room,541522,292
+Monte Castro,Entire home/apt,29660,226
+Nueva Pompeya,Entire home/apt,26436,169
+Nueva Pompeya,Private room,11886,232
+Nueva Pompeya,Shared room,9455,364
+Nuñez,Entire home/apt,43009,208
+Nuñez,Private room,27917,210
+Nuñez,Shared room,27656,220
+Palermo,Entire home/apt,65059,214
+Palermo,Hotel room,60500,320
+Palermo,Private room,81937,202
+Palermo,Shared room,32618,234
+Parque Avellaneda,Entire home/apt,81947,220
+Parque Avellaneda,Private room,28143,261
+Parque Chacabuco,Entire home/apt,33127,212
+Parque Chacabuco,Private room,31466,154
+Parque Chas,Entire home/apt,38183,212
+Parque Chas,Private room,26772,325
+Parque Patricios,Entire home/apt,32896,207
+Parque Patricios,Private room,16881,215
+Parque Patricios,Shared room,45384,270
+Paternal,Entire home/apt,31449,194
+Paternal,Private room,24850,218
+Puerto Madero,Entire home/apt,100854,203
+Puerto Madero,Hotel room,150571,63
+Puerto Madero,Private room,112395,137
+Recoleta,Entire home/apt,52467,207
+Recoleta,Hotel room,17965,324
+Recoleta,Private room,27618,222
+Recoleta,Shared room,258507,250
+Retiro,Entire home/apt,63168,222
+Retiro,Hotel room,106100,217
+Retiro,Private room,47581,258
+Retiro,Shared room,8235,48
+Saavedra,Entire home/apt,34862,198
+Saavedra,Private room,75373,194
+San Cristobal,Entire home/apt,68284,216
+San Cristobal,Private room,20690,207
+San Cristobal,Shared room,12173,238
+San Nicolas,Entire home/apt,70913,210
+San Nicolas,Hotel room,45658,122
+San Nicolas,Private room,105937,202
+San Nicolas,Shared room,14769,253
+San Telmo,Entire home/apt,45532,204
+San Telmo,Private room,1153286,219
+San Telmo,Shared room,60000,73
+Velez Sarsfield,Entire home/apt,40946,222
+Velez Sarsfield,Private room,12670,73
+Versalles,Entire home/apt,64767,77
+Versalles,Private room,35937,102
+Villa Crespo,Entire home/apt,140530,206
+Villa Crespo,Private room,31730,231
+Villa Crespo,Shared room,99997,279
+Villa Del Parque,Entire home/apt,35253,232
+Villa Del Parque,Private room,58229,286
+Villa Del Parque,Shared room,28365,179
+Villa Devoto,Entire home/apt,36757,209
+Villa Devoto,Private room,48747,269
+Villa Devoto,Shared room,10000,90
+Villa Gral. Mitre,Entire home/apt,31128,184
+Villa Gral. Mitre,Private room,20486,238
+Villa Lugano,Entire home/apt,33910,224
+Villa Lugano,Private room,25007,320
+Villa Luro,Entire home/apt,1457290,193
+Villa Luro,Private room,16455,364
+Villa Luro,Shared room,11333,302
+Villa Ortuzar,Entire home/apt,103706,210
+Villa Ortuzar,Private room,31187,267
+Villa Ortuzar,Shared room,11346,45
+Villa Pueyrredon,Entire home/apt,29570,217
+Villa Pueyrredon,Private room,16598,299
+Villa Pueyrredon,Shared room,42548,268
+Villa Real,Entire home/apt,26474,47
+Villa Real,Private room,15714,182
+Villa Riachuelo,Entire home/apt,26474,134
+Villa Riachuelo,Shared room,9455,89
+Villa Santa Rita,Entire home/apt,38070,187
+Villa Santa Rita,Private room,19908,243
+Villa Urquiza,Entire home/apt,33824,215
+Villa Urquiza,Private room,31526,188
+Villa Urquiza,Shared room,18910,365
